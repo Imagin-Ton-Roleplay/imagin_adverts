@@ -1,11 +1,11 @@
 <div id="top"></div>
 
 <!-- PROJECT SHIELDS -->
-[![Lua][lua-shield]][lua-url]
+[![GNU License][license-shield]][license-url]
 [![HTML5][html-shield]][html-url]
 [![CSS3][css-shield]][css-url]
 [![Javascript][js-shield]][js-url]
-[![GNU License][license-shield]][license-url]
+[![Lua][lua-shield]][lua-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 <hr>
 
