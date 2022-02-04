@@ -1,13 +1,15 @@
 <div id="top"></div>
 
 <!-- PROJECT SHIELDS -->
-[![Lua][lua-shield]][lua-url]
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<div align="center">
+  [![Lua][lua-shield]][lua-url]
+  [![HTML5][html-shield]][html-url]
+  [![CSS3][css-shield]][css-url]
+  [![Javascript][js-shield]][js-url]
+  [![Issues][issues-shield]][issues-url]
+  [![GNU License][license-shield]][license-url]
+  [![LinkedIn][linkedin-shield]][linkedin-url]
+</div>
 
 
 
@@ -63,8 +65,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- Screenshots -->
 ## Screenshots
 
-<img>https://i.imgur.com/uA0OhI5.jpg</img>
-<img>https://i.imgur.com/h5jIQw7.jpg</img>
+<img src="https://i.imgur.com/uA0OhI5.jpg" alt="screenshot1">
+<img src="https://i.imgur.com/h5jIQw7.jpg" alt="screenshot1">
 
 <p align="right"><a href="#top">⬆️</a></p>
 
@@ -82,7 +84,7 @@ Distributed under the GNU License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Imagineer - [Compte Steam](https://steamcommunity.com/id/imagineer_/)
+Imagineer (🗽 𝕴𝖒𝖆𝖌𝖎𝖓𝖊𝖊𝖗 🗿#3733) - [Compte Steam](https://steamcommunity.com/id/imagineer_/)
 
 Project Link: [https://github.com/Imagin-Ton-Roleplay/](https://github.com/Imagin-Ton-Roleplay/)
 
@@ -93,15 +95,13 @@ Project Link: [https://github.com/Imagin-Ton-Roleplay/](https://github.com/Imagi
 <!-- MARKDOWN LINKS & IMAGES -->
 [lua-shield]: https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white
 [lua-url]: https://www.lua.org/
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/Imagin-Ton-Roleplay/imagin_adverts/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/Imagin-Ton-Roleplay/imagin_adverts/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/Imagin-Ton-Roleplay/imagin_adverts/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/Imagin-Ton-Roleplay/imagin_adverts/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[html-shield]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[html-url]: https://developer.mozilla.org/fr/docs/Web/HTML
+[css-shield]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+[css-url]: https://developer.mozilla.org/fr/docs/Web/CSS
+[js-shield]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[js-url]: https://www.lua.org/
+[license-shield]: https://img.shields.io/github/license/Imagin-Ton-Roleplay/markdown-badges?style=for-the-badge
+[license-url]: https://github.com/Imagin-Ton-Roleplay/imagin_adverts/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/matthieuhot
