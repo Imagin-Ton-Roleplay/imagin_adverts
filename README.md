@@ -7,6 +7,7 @@
 [![Javascript][js-shield]][js-url]
 [![GNU License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+<hr>
 
 
 
