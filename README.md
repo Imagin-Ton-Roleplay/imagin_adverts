@@ -89,8 +89,8 @@ Project Link: [https://github.com/Imagin-Ton-Roleplay/](https://github.com/Imagi
 <p align="right"><a href="#top">⬆️</a></p>
 
 
-
 <hr>
+
 <!-- MARKDOWN LINKS & IMAGES -->
 [lua-shield]: https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white
 [lua-url]: https://www.lua.org/
