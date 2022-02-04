@@ -1,15 +1,13 @@
 <div id="top"></div>
 
 <!-- PROJECT SHIELDS -->
-<div align="center">
-  [![Lua][lua-shield]][lua-url]
-  [![HTML5][html-shield]][html-url]
-  [![CSS3][css-shield]][css-url]
-  [![Javascript][js-shield]][js-url]
-  [![Issues][issues-shield]][issues-url]
-  [![GNU License][license-shield]][license-url]
-  [![LinkedIn][linkedin-shield]][linkedin-url]
-</div>
+[![Lua][lua-shield]][lua-url]
+[![HTML5][html-shield]][html-url]
+[![CSS3][css-shield]][css-url]
+[![Javascript][js-shield]][js-url]
+[![Issues][issues-shield]][issues-url]
+[![GNU License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
