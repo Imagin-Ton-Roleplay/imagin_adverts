@@ -23,8 +23,6 @@
   <p align="center">
     Advertising system for citizens and companies
     <br />
-    <a href="https://github.com/Imagin-Ton-Roleplay/imagin_adverts">View Demo</a>
-    ·
     <a href="https://github.com/Imagin-Ton-Roleplay/imagin_adverts/issues">Report Bug</a>
     ·
     <a href="https://github.com/Imagin-Ton-Roleplay/imagin_adverts/issues">Request Feature</a>
