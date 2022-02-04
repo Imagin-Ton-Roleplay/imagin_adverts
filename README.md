@@ -5,7 +5,6 @@
 [![HTML5][html-shield]][html-url]
 [![CSS3][css-shield]][css-url]
 [![Javascript][js-shield]][js-url]
-[![Issues][issues-shield]][issues-url]
 [![GNU License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -99,7 +98,7 @@ Project Link: [https://github.com/Imagin-Ton-Roleplay/](https://github.com/Imagi
 [css-url]: https://developer.mozilla.org/fr/docs/Web/CSS
 [js-shield]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [js-url]: https://www.lua.org/
-[license-shield]: https://img.shields.io/github/license/Imagin-Ton-Roleplay/markdown-badges?style=for-the-badge
+[license-shield]: https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge
 [license-url]: https://github.com/Imagin-Ton-Roleplay/imagin_adverts/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/matthieuhot
